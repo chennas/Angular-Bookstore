@@ -67,6 +67,12 @@
   <ItemGroup>
     <Content Include="css\app.css" />
     <Content Include="css\bootstrap.min.css" />
+    <Content Include="images\adultery.jpeg" />
+    <Content Include="images\geronimo.jpeg" />
+    <Content Include="images\life-or-death.jpeg" />
+    <Content Include="images\playing.jpeg" />
+    <Content Include="images\the-fault.jpeg" />
+    <Content Include="images\wings-of-fire.jpeg" />
     <Content Include="index.html" />
     <Content Include="Scripts\angular.min.js" />
     <Content Include="Scripts\app.js" />
@@ -75,6 +81,7 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
